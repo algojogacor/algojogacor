@@ -13,13 +13,47 @@ hobby:    [Game Dev, Open Source, Weekend Projects]
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🌌 **Aether Cosmos**](https://github.com/algojogacor/aether-cosmos) | Interactive particle universe simulator | Next.js · Canvas 2D |
-| [🔬 **Lexicon Papers**](https://github.com/algojogacor/lexicon-papers) | AI research paper discovery tool | Next.js · OpenAlex API |
-| [🏠 **Bento Dash**](https://github.com/algojogacor/bento-dashboard) | Personal glassmorphism dashboard | Next.js · Tailwind v4 |
-| [🤖 **Autonomous Agent**](https://github.com/algojogacor/Autonomous-Agent) | Multi-agent AI orchestration | Python · MCP |
-| [🌐 **Sociosekai Clone**](https://github.com/algojogacor/sociosekai-clone) | Dark-themed multimodal forum | Next.js · Tailwind |
+### 🤖 AI & Agents
+| Project | Description |
+|---------|-------------|
+| [**nanobot**](https://github.com/algojogacor/nanobot) | Python-based autonomous agent |
+| [**cloud-agent**](https://github.com/algojogacor/cloud-agent) | Cloud-native AI agent framework |
+| [**prompt-forge**](https://github.com/algojogacor/prompt-forge) | Multi-LLM Ensemble Prompt Composer with cross-matrix scoring |
+| [**Autonomous Agent**](https://github.com/algojogacor/Autonomous-Agent) | Multi-agent AI orchestration system |
+| [**BOT-DISCORD**](https://github.com/algojogacor/BOT-DISCORD) | Discord bot — latest bot project |
+
+### 🌐 Web Apps
+| Project | Description |
+|---------|-------------|
+| [🌌 **Aether Cosmos**](https://github.com/algojogacor/aether-cosmos) | Interactive particle universe simulator — Canvas 2D engine |
+| [🔬 **Lexicon Papers**](https://github.com/algojogacor/lexicon-papers) | AI research paper discovery tool — OpenAlex API |
+| [🏠 **Bento Dash**](https://github.com/algojogacor/bento-dashboard) | Personal glassmorphism dashboard |
+| [🌐 **Sociosekai Clone**](https://github.com/algojogacor/sociosekai-clone) | Dark-themed multimodal forum |
+| [✨ **Cosmic AI Command**](https://github.com/algojogacor/cosmic-ai-command) | Futuristic AI dashboard — multi-model chat, particle cosmos bg |
+| [⌨️ **Cyber Synth Typer**](https://github.com/algojogacor/cyber-synth-typer) | Cyberpunk typing animation tool |
+
+### 💰 Finance Tools
+| Project | Description |
+|---------|-------------|
+| [**mesin-cuan**](https://github.com/algojogacor/mesin-cuan) | Finance tracking platform |
+| [**App-Keuangan**](https://github.com/algojogacor/App-Keuangan) | Personal finance app |
+| [**FinTracker**](https://github.com/algojogacor/FinTracker) | Financial tracker |
+
+### 🎮 Games
+| Project | Description |
+|---------|-------------|
+| [🏃 **Temple Run**](https://github.com/algojogacor/temple-run) | Browser-based runner game |
+| [⚽ **Football Manager**](https://github.com/algojogacor/football-manager) | Football management game |
+| [🔫 **TEMBAK NEON SKY**](https://github.com/algojogacor/TEMBAK-NEON-SKY) | Arcade shooter game |
+
+### 🛠️ Tools & Utilities
+| Project | Description |
+|---------|-------------|
+| [**SCRAP-GPT**](https://github.com/algojogacor/SCRAP-GPT) | AI-powered web scraper |
+| [**Scrap-AI**](https://github.com/algojogacor/Scrap-AI) | Intelligent scraping tool |
+| [**Media Downloader**](https://github.com/algojogacor/Media-Downloader) | Media content downloader |
+| [**algojo-opencode-server**](https://github.com/algojogacor/algojo-opencode-server) | OpenCode server implementation |
+| [**ambarya-life-archive**](https://github.com/algojogacor/ambarya-life-archive-backend) | Life archive backend |
 
 ---
 
@@ -31,6 +65,7 @@ hobby:    [Game Dev, Open Source, Weekend Projects]
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
