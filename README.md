@@ -198,8 +198,6 @@ Org    : PPOB Wonoboyo
 
 ![S1](https://img.shields.io/badge/LL.B-Faculty%20of%20Law%20Unair%20(2026–present)-00FF94?style=for-the-badge&labelColor=0D1117)
 ![SMA](https://img.shields.io/badge/HS-SMAN%2016%20Surabaya%20Science%20(2023–2026)-00FF94?style=for-the-badge&labelColor=0D1117)
-![SMP](https://img.shields.io/badge/Junior%20High-SMP%20Muhammadiyah%205%20Surabaya%20(2020–2023)-00FF94?style=for-the-badge&labelColor=0D1117)
-![SD](https://img.shields.io/badge/Elementary-SDI%20Darut%20Taqwa%20(2017–2020)-00FF94?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
