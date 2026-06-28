@@ -1,12 +1,8 @@
 <div align="center">
 
-[![banner](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=Arya%20Rizky%20Ardhi%20Pratama&fontSize=36&fontColor=00FF94&fontAlignY=45&desc=Mahasiswa%20%26%20Freelance%20Full-Stack%20Developer&descFontColor=00D4FF&descFontSize=16&descAlignY=68&animation=fadeIn)](https://arya-portfolio-seven.vercel.app/)
+[![header](https://capsule-render.vercel.app/api?type=venom&height=280&color=0D1117&text=Arya%20Rizky&fontSize=72&fontColor=00FFA3&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Self-Taught%20Since%20SMA&descSize=17&descColor=00C8FF&descAlignY=62&animation=fadeIn)](https://github.com/algojogacor)
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=800&color=00FF94&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami+%E2%86%92+self-taught+dev%2C+SMA+%E2%86%92+FH+Unair;%24+stack+%E2%86%92+Next.js+%7C+Python+%7C+Flutter+%7C+TypeScript;%24+building+%E2%86%92+JalaJO+Ecosystem+%7C+JalaAgent;%24+specialty+%E2%86%92+AI+systems%2C+bots%2C+full-stack+apps;%24+status+%E2%86%92+open+to+freelance+%26+internship)](https://arya-portfolio-seven.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00FFA3&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=120&lines=%24+whoami+%E2%86%92+Full-Stack+%26+AI+Builder+%7C+Surabaya%2C+Indonesia;%24+tech+%E2%86%92+Python+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+Turso;%24+building+%E2%86%92+JalaAgent+Framework+%2B+Freelance+Projects;%24+status+%E2%86%92+Open+to+Freelance+%C2%B7+Internship+%C2%B7+OSS)](https://github.com/algojogacor)
 
 </div>
 
@@ -14,31 +10,27 @@
 
 <div align="center">
 
-![S1 FH](https://img.shields.io/badge/S1-Fakultas%20Hukum-00FF94?style=flat-square&labelColor=0D1117)
-![Universitas Airlangga](https://img.shields.io/badge/Univ-Universitas%20Airlangga-00D4FF?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/📍-Surabaya%2C%20Indonesia-00FF94?style=flat-square&labelColor=0D1117)
+![Degree](https://img.shields.io/badge/S1%20Ilmu%20Hukum-Universitas%20Airlangga-00FFA3?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/📍-Surabaya%2C%20Indonesia-00C8FF?style=flat-square&labelColor=0D1117)
+![Experience](https://img.shields.io/badge/Experience-0.5%20Year-00FFA3?style=flat-square&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C8FF?style=flat-square&labelColor=0D1117)
 
 </div>
 
----
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arya--portfolio-00FF94?style=for-the-badge&logo=vercel&logoColor=00FF94&labelColor=0D1117)](https://arya-portfolio-seven.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya%20Rizky-00D4FF?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0D1117)](https://linkedin.com/in/aryarizkyardhipratama)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-00FF94?style=for-the-badge&logo=gmail&logoColor=00FF94&labelColor=0D1117)](mailto:aryarizkyardhipratama@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-algojogacor-00D4FF?style=for-the-badge&logo=github&logoColor=00D4FF&labelColor=0D1117)](https://github.com/algojogacor)
-[![Instagram](https://img.shields.io/badge/Instagram-@aryarizky04-00FF94?style=for-the-badge&logo=instagram&logoColor=00FF94&labelColor=0D1117)](https://instagram.com/aryarizky04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arya--portfolio.vercel.app-00FFA3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://arya-portfolio-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00C8FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://linkedin.com/in/aryarizkyardhipratama)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-00FFA3?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:aryarizkyardhipratama@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-algojogacor-00C8FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/algojogacor)
 
 </div>
 
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=algojogacor&color=00FF94&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/algojogacor?color=00D4FF&style=flat-square&label=FOLLOWERS&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/algojogacor?color=00FF94&style=flat-square&label=TOTAL+STARS&labelColor=0D1117)
+[![Profile Views](https://komarev.com/ghpvc/?username=algojogacor&style=for-the-badge&color=00FFA3&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/algojogacor)
+[![Followers](https://img.shields.io/github/followers/algojogacor?style=for-the-badge&color=00C8FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/algojogacor?tab=followers)
+[![Stars](https://img.shields.io/github/stars/algojogacor?style=for-the-badge&color=00FFA3&labelColor=0D1117&label=STARS)](https://github.com/algojogacor?tab=repositories)
 
 </div>
 
@@ -46,253 +38,265 @@
 
 ## `$ cat about.txt`
 
-Self-taught full-stack developer yang mulai membangun sistem AI, bot, dan aplikasi production-ready sejak SMA — sekarang melanjutkan studi S1 Hukum di Universitas Airlangga sambil tetap aktif freelance. Spesialis di interseksi antara AI automation, WhatsApp bots, dan monorepo web ecosystem.
+Self-taught full-stack developer & AI builder from Surabaya, Indonesia — shipping production-ready web apps, bots, and AI systems since high school. Currently leveling up at Universitas Airlangga while freelancing and contributing to open source. Obsessed with agent frameworks, local AI, and clean system design.
 
 ```bash
-$ arya --info
+#!/usr/bin/env bash
 
-  ROLE        : Mahasiswa S1 & Freelance Full-Stack Developer
-  EXPERIENCE  : ~0.5 tahun professional development
-  DOMAIN      : AI Systems · Bot Development · Full-Stack Web · Mobile
-  STACK       : Next.js · Python · TypeScript · Flutter · aiogram · Baileys
-  OPEN_TO     : Freelance · Internship · Part-time SWE · Open Source Collab
-  LOCATION    : Surabaya, Indonesia 🇮🇩
+ROLE="Full-Stack Developer & AI Builder"
+EXP="0.5 years (self-taught since SMA)"
+DOMAIN="Web Apps · AI Systems · Bot Development · Mobile"
+STACK="Python · TypeScript · Next.js · Flutter · Turso · Redis"
+OPEN_TO="Freelance · Internship · Open Source · Part-time SWE"
+BUILDING="JalaAgent Framework + Freelance Projects"
+LEARNING="Law @ Unair + Advanced AI Agent Architectures"
 ```
 
 ---
 
-## `$ ls tech-stack/`
+## `$ ls ./tech-stack`
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,dart&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,js,ts&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,express,flutter&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,flutter&theme=dark)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=vercel,github,cloudflare&theme=dark)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=vercel,githubactions,cloudflare&theme=dark)](https://skillicons.dev)
 
-**Databases & Storage**
+**Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,redis,postgres&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,redis,postgres&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,nodejs&theme=dark)](https://skillicons.dev)
 
 ---
 
-## `$ cat specializations.badge`
+## `$ cat specialization.json`
 
 <div align="center">
 
-![AI Systems](https://img.shields.io/badge/AI%20Systems-Ollama%20%7C%20LLM%20Integration-00FF94?style=flat-square&labelColor=0D1117)
-![Bot Development](https://img.shields.io/badge/Bot%20Dev-WhatsApp%20%7C%20Telegram-00D4FF?style=flat-square&labelColor=0D1117)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-Next.js%20%7C%20Express-00FF94?style=flat-square&labelColor=0D1117)
-![Monorepo](https://img.shields.io/badge/Monorepo-Turborepo%20%7C%20Turso-00D4FF?style=flat-square&labelColor=0D1117)
-![Mobile](https://img.shields.io/badge/Mobile-Flutter%20%7C%20Health%20APIs-00FF94?style=flat-square&labelColor=0D1117)
-![Edge Infra](https://img.shields.io/badge/Edge%20Infra-Cloudflare%20%7C%20Koyeb%20%7C%20Vercel-00D4FF?style=flat-square&labelColor=0D1117)
+![Self-Taught](https://img.shields.io/badge/Self--Taught%20Developer-Since%20SMA-00FFA3?style=for-the-badge&labelColor=0D1117)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-Builder-00C8FF?style=for-the-badge&labelColor=0D1117)
+![Bot Architecture](https://img.shields.io/badge/Bot%20Architecture-Telegram%20%26%20WhatsApp-00FFA3?style=for-the-badge&labelColor=0D1117)
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Web-Production%20Ready-00C8FF?style=for-the-badge&labelColor=0D1117)
+![Local AI](https://img.shields.io/badge/Local%20AI-Ollama%20%26%20RAG-00FFA3?style=for-the-badge&labelColor=0D1117)
+![Monorepo](https://img.shields.io/badge/Monorepo-Turborepo%20%2B%20Turso-00C8FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
 ---
 
-## `$ cat expertise.table`
+## `$ cat expertise.md`
 
 | Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Full-Stack Web** | ⬛⬛⬛⬛⬜ Advanced | Next.js, TypeScript, Express.js, Turborepo monorepo |
-| **Bot Development** | ⬛⬛⬛⬛⬜ Advanced | WhatsApp (Baileys), Telegram (aiogram 3.x), automation flows |
-| **AI Integration** | ⬛⬛⬛⬜⬜ Intermediate | Ollama, LLM agents, open source agent frameworks |
-| **Mobile Dev** | ⬛⬛⬛⬜⬜ Intermediate | Flutter, Drift ORM, Health Connect API, Turso sync |
-| **Database & Storage** | ⬛⬛⬛⬜⬜ Intermediate | Turso/libSQL, SQLite, Redis (Upstash), PGLite, PostgreSQL |
-| **DevOps / Infra** | ⬛⬛⬜⬜⬜ Growing | GitHub Actions, Cloudflare Tunnel, Vercel, Koyeb deploys |
+|---|---|---|
+| 🌐 Full-Stack Web Dev | ⭐⭐⭐⭐☆ | Next.js · TypeScript · Express.js · Turborepo |
+| 🤖 AI & Agent Systems | ⭐⭐⭐⭐☆ | Ollama · RAG · MCP · Custom Agent Frameworks |
+| 💬 Bot Development | ⭐⭐⭐⭐☆ | Telegram (aiogram 3.x) · WhatsApp (Baileys) |
+| 🗄️ Database Architecture | ⭐⭐⭐☆☆ | Turso/libSQL · SQLite-vec · Redis · PostgreSQL |
+| ☁️ DevOps & Deployment | ⭐⭐⭐☆☆ | Vercel · Koyeb · GitHub Actions · Cloudflare Tunnel |
+| 📱 Mobile Development | ⭐⭐⭐☆☆ | Flutter · Drift · Health Connect API |
 
 ---
 
-## `$ ls projects/ --details`
+## `$ ls ./projects --featured`
 
 <details open>
-<summary><strong>🌐 JalaJO Ecosystem</strong> — Monorepo 6-App Platform</summary>
+<summary><b>🌐 JalaJO Ecosystem</b> — Full-Stack Monorepo (6 Apps)</summary>
 
-| Key | Detail |
-|-----|--------|
-| **Stack** | Next.js · TypeScript · Turborepo · Turso/libSQL |
-| **Scale** | 6 aplikasi dalam satu monorepo: JalaHub, JalaForum, JalaFact, JalaAI, JalaEdu, JalaJO |
-| **Impact** | Platform terintegrasi dengan shared codebase, unified deployment pipeline |
-| **Role** | Sole developer — architecture, design, implementation |
-| **Status** | 🔧 Active Development (JalaAgent in progress) |
+<br>
+
+> A production-ready monorepo housing 6 interconnected web applications under a unified authentication system — built and maintained solo.
+
+| | |
+|---|---|
+| **Stack** | Next.js · Turborepo · TypeScript · Turso/libSQL |
+| **Apps** | JalaHub · JalaForum · JalaFact · JalaAI · JalaEdu · JalaJO |
+| **Architecture** | Monorepo · Unified Auth · Shared UI Components |
+| **Role** | Solo Developer — architecture, design, implementation, deployment |
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Profile-00FFA3?style=flat-square&logo=github&labelColor=0D1117)](https://github.com/algojogacor)
 
 </details>
 
 <details>
-<summary><strong>🤖 StickerinAja</strong> — WhatsApp Sticker Bot</summary>
+<summary><b>💬 StickerinAja</b> — WhatsApp Sticker Bot</summary>
 
-| Key | Detail |
-|-----|--------|
+<br>
+
+> A WhatsApp bot that converts text, images, and videos into stickers on demand — deployed on Koyeb for always-on availability.
+
+| | |
+|---|---|
 | **Stack** | Node.js · Baileys · Turso · Koyeb |
-| **Scale** | Self-hosted WhatsApp bot, deployed production di Koyeb |
-| **Impact** | Bisa buat stiker dari teks, gambar, dan video — fully automated |
-| **Role** | Sole developer |
-| **GitHub** | [github.com/algojogacor/StickerinAja](https://github.com/algojogacor/StickerinAja) |
+| **Features** | Text stickers · Image stickers · Video stickers |
+| **Deployment** | Koyeb (always-on serverless) |
+| **Role** | Solo Developer — full implementation & deployment |
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-algojogacor%2FStickerinAja-00C8FF?style=flat-square&logo=github&labelColor=0D1117)](https://github.com/algojogacor/StickerinAja)
 
 </details>
 
 <details>
-<summary><strong>📊 Health Analyzer</strong> — Personal Health Dashboard</summary>
+<summary><b>❤️ Health Analyzer</b> — Personal Health Dashboard (Flutter)</summary>
 
-| Key | Detail |
-|-----|--------|
-| **Stack** | Flutter · Drift ORM · Turso · Health Connect API |
-| **Scale** | Mobile app terintegrasi langsung dengan Xiaomi Smart Band 9 Active |
-| **Impact** | Dashboard kesehatan personal dengan sinkronisasi data wearable real-time |
-| **Role** | Sole developer |
+<br>
+
+> A privacy-first mobile health dashboard integrating Xiaomi Smart Band 9 Active via Health Connect API, with AI-powered analysis and local-first storage.
+
+| | |
+|---|---|
+| **Stack** | Flutter · Drift · Turso · Health Connect API · DeepSeek AI |
+| **Features** | Smart band sync · Local DB · AI health insights · Offline-first |
+| **Privacy Model** | User-owned database, data never leaves device by default |
+| **Role** | Solo Developer — architecture, UI design, AI integration |
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Profile-00FFA3?style=flat-square&logo=github&labelColor=0D1117)](https://github.com/algojogacor)
 
 </details>
 
 ---
 
-## `$ git log --experience --reverse`
+## `$ cat experience.log`
 
-```
-commit [2020–Present]
-Author: Arya Rizky Ardhi Pratama
-Role  : Technical Operations Assistant
-Org   : PPOB Wonoboyo
+### 🏢 PPOB Wonoboyo · Technical Operations Assistant
+**`2020 – Present`** · East Java, Indonesia
 
-  • Setup, konfigurasi, dan troubleshooting sistem PPOB end-to-end
-  • Melatih operator baru agar paham operasional sistem secara menyeluruh
-  • Backup operasional saat staff utama berhalangan hadir
-  • Memastikan transaksi tetap berjalan tanpa downtime operasional
-  • Jaga stabilitas sistem saat volume transaksi tinggi
+- 🔧 Setup, configured, and troubleshot PPOB systems end-to-end — ensuring reliable transaction processing across multiple payment services
+- 🎓 Trained new operators on system operations, reducing onboarding friction and improving team redundancy
+- 🚨 Served as backup operations lead during staff absences — maintaining zero transaction downtime on a live fintech platform
+- 📊 Handled daily operational monitoring, issue triage, and escalation for a production financial services system
+- 💡 Gained hands-on exposure to fintech operations, payment infrastructure, and real-world system reliability at scale
 
-  tags: [operations] [technical-support] [training] [reliability]
-```
+`#PPOB` `#FinTech` `#SystemOps` `#TechnicalSupport` `#OperationalReliability`
 
 ---
 
-## `$ cat achievements.log`
+## `$ cat achievements.txt`
 
 <div align="center">
 
-| 🏆 Achievement | Event | Year |
-|---------------|-------|------|
-| 🥈 **2nd Champion** | BEPRO — Biomedical Engineering Prime Competition by BEACON ITS | 2025 |
-| 🎖️ **Juara Harapan 2** | OLKIM Unesa by FMIPA Universitas Negeri Surabaya | 2025 |
-| 🥈 **2nd Winner** | IE Games 21st Edition by HMTI, Industrial & Systems Engineering ITS | Feb 2026 |
+| 🏆 Achievement | 🏛️ Organizer | 📅 Year |
+|:---:|:---:|:---:|
+| 🥈 **2nd Champion** — BEPRO (Biomedical Engineering Prime Competition) | BEACON ITS | 2025 |
+| 🎖️ **Juara Harapan 2** — OLKIM (Olimpiade Kimia Unesa) | FMIPA Unesa | 2025 |
+| 🥈 **2nd Winner** — IE Games 21st Edition | HMTI · ITS Industrial & Systems Engineering | Feb 2026 |
 
 </div>
 
 ---
 
-## `$ cat education.log`
+## `$ cat education.md`
 
 <div align="center">
 
-![SD](https://img.shields.io/badge/SD-SDI%20Darut%20Taqwa%20(2008–2014)-00FF94?style=for-the-badge&labelColor=0D1117)
-![SMP](https://img.shields.io/badge/SMP-SMP%20Muhammadiyah%205%20Surabaya%20(2020–2023)-00D4FF?style=for-the-badge&labelColor=0D1117)
-![SMA](https://img.shields.io/badge/SMA-SMAN%2016%20Surabaya%20IPA%20(2023–2026)-00FF94?style=for-the-badge&labelColor=0D1117)
-![S1](https://img.shields.io/badge/S1-FH%20Universitas%20Airlangga%20(2026–sekarang)-00D4FF?style=for-the-badge&labelColor=0D1117)
+![S1 Ilmu Hukum](https://img.shields.io/badge/S1%20Ilmu%20Hukum-Universitas%20Airlangga-00FFA3?style=for-the-badge&labelColor=0D1117)
+![Active](https://img.shields.io/badge/2026–Present-Active-00C8FF?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+| Jenjang | Institusi | Tahun |
+|---|---|---|
+| 🎓 **S1 Ilmu Hukum** | **Universitas Airlangga** | **2026 – Sekarang** |
+| SMA IPA | SMAN 16 Surabaya | 2023 – 2026 |
+| SMP | SMP Muhammadiyah 5 Surabaya | 2020 – 2023 |
+| SD | SDI Darut Taqwa | 2017 – 2020 |
+
+---
+
+## `$ git log --stats --author=algojogacor`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=algojogacor&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&icon_color=00C8FF&border_color=00FFA3&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algojogacor&layout=compact&theme=dark&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&border_color=00FFA3&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=algojogacor&theme=dark&background=0D1117&ring=00FFA3&fire=00C8FF&currStreakLabel=00FFA3&sideLabels=C9D1D9&currStreakNum=00C8FF&sideNums=00FFA3&dates=C9D1D9&border=00FFA3)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## `$ github-stats --user algojogacor`
+## `$ trophy --user=algojogacor`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=algojogacor&show_icons=true&theme=transparent&title_color=00FF94&icon_color=00D4FF&text_color=E6EDF3&border_color=00FF9430&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=algojogacor&theme=transparent&background=0D1117&ring=00FF94&fire=00D4FF&currStreakLabel=00FF94&sideLabels=E6EDF3&currStreakNum=00FF94&sideNums=00D4FF&border=00FF9430"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algojogacor&layout=compact&theme=transparent&title_color=00FF94&text_color=E6EDF3&border_color=00FF9430&bg_color=0D1117&langs_count=8"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=algojogacor&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)](https://github.com/algojogacor)
 
 </div>
 
 ---
 
-## `$ github-profile-trophy --user algojogacor`
+## `$ git log --graph --all --oneline`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=algojogacor&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=00FF94)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=algojogacor&bg_color=0D1117&color=00FFA3&line=00C8FF&point=FFFFFF&area=true&area_color=00FFA3&border_color=00FFA3)](https://github.com/algojogacor)
 
 </div>
 
 ---
 
-## `$ git activity-graph --user algojogacor`
+## `$ profile --summary algojogacor`
 
 <div align="center">
 
-[![Arya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=algojogacor&bg_color=0D1117&color=00FF94&line=00D4FF&point=00FF94&area=true&area_color=00FF9420&border_color=00FF9430&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://raw.githubusercontent.com/algojogacor/algojogacor/output/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/algojogacor)
+
+<table><tr>
+<td><img src="https://raw.githubusercontent.com/algojogacor/algojogacor/output/profile-summary-card-output/dracula/2-most-commit-language.svg"/></td>
+<td><img src="https://raw.githubusercontent.com/algojogacor/algojogacor/output/profile-summary-card-output/dracula/3-stats.svg"/></td>
+<td><img src="https://raw.githubusercontent.com/algojogacor/algojogacor/output/profile-summary-card-output/dracula/4-productive-time.svg"/></td>
+</tr></table>
 
 </div>
 
 ---
 
-## `$ profile-details --summary`
+## `$ snake --eat-contributions`
 
 <div align="center">
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algojogacor&theme=transparent&bg_color=0D1117)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
-<div align="center">
-
-[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=algojogacor&theme=transparent&bg_color=0D1117)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=algojogacor&theme=transparent&bg_color=0D1117)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
-<div align="center">
-
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=algojogacor&theme=transparent&bg_color=0D1117)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=algojogacor&theme=transparent&bg_color=0D1117&utcOffset=7)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algojogacor/algojogacor/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algojogacor/algojogacor/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/algojogacor/algojogacor/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-## `$ watch --snake-animation`
-
-<div align="center">
-
-![Snake Dark](https://raw.githubusercontent.com/algojogacor/algojogacor/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚠️ Snake animation requires a GitHub Actions workflow in your profile repo. See setup note at the bottom.
-
----
-
-## `$ cat current-focus.yaml`
+## `$ cat focus.yaml`
 
 ```yaml
 current_focus:
   building:
-    - "JalaAgent — AI agent layer untuk JalaJO Ecosystem"
-    - "Freelance full-stack projects (web & bot)"
-
+    - "JalaAgent — Python AI agent framework with MCP & RAG support"
+    - "Freelance full-stack web projects"
   learning:
-    - "Hukum & pengantar kuliah S1 FH Unair 2026"
-    - "Open source agent frameworks & LLM orchestration"
-
+    - "S1 Ilmu Hukum @ Universitas Airlangga"
+    - "Advanced AI agent architectures & open source frameworks"
   exploring:
-    - "AI systems architecture"
-    - "Edge deployment strategies (Cloudflare, Koyeb)"
-    - "Monorepo patterns dengan Turborepo"
-
+    - "Retrieval-Augmented Generation (RAG) design patterns"
+    - "Model Context Protocol (MCP) integrations"
+    - "Local LLM deployment with Ollama"
   open_to:
-    - "Freelance projects (web, bot, AI automation)"
-    - "Internship (part-time friendly)"
+    - "Freelance web & AI projects"
+    - "Software engineering internships"
     - "Open source collaboration"
-    - "Part-time / full-time SWE roles (remote-friendly)"
+    - "Part-time / full-time SWE roles"
 ```
 
 ---
@@ -301,57 +305,18 @@ current_focus:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-arya--portfolio--seven.vercel.app-00FF94?style=for-the-badge&labelColor=0D1117)](https://arya-portfolio-seven.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryarizkyardhipratama-00D4FF?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0D1117)](https://linkedin.com/in/aryarizkyardhipratama)
-[![Email](https://img.shields.io/badge/Gmail-aryarizkyardhipratama-00FF94?style=for-the-badge&logo=gmail&logoColor=00FF94&labelColor=0D1117)](mailto:aryarizkyardhipratama@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@aryarizky04-00D4FF?style=for-the-badge&logo=instagram&logoColor=00D4FF&labelColor=0D1117)](https://instagram.com/aryarizky04)
-[![GitHub](https://img.shields.io/badge/GitHub-algojogacor-00FF94?style=for-the-badge&logo=github&logoColor=00FF94&labelColor=0D1117)](https://github.com/algojogacor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arya--portfolio.vercel.app-00FFA3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://arya-portfolio-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryarizkyardhipratama-00C8FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://linkedin.com/in/aryarizkyardhipratama)
+[![Email](https://img.shields.io/badge/Email-aryarizkyardhipratama%40gmail.com-00FFA3?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:aryarizkyardhipratama@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40aryarizky04-00C8FF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0D1117)](https://instagram.com/aryarizky04)
+[![GitHub](https://img.shields.io/badge/GitHub-algojogacor-00FFA3?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/algojogacor)
+
+<br>
+
+*"Ship first. Perfect later. Ship again."*
+
+<br>
+
+[![footer](https://capsule-render.vercel.app/api?type=wave&height=100&color=0D1117&section=footer)](https://github.com/algojogacor)
 
 </div>
-
-<div align="center">
-
-*"Code is just logic made visible — build something real."*
-
-</div>
-
-<div align="center">
-
-[![footer](https://capsule-render.vercel.app/api?type=wave&color=0D1117&height=100&section=footer&fontColor=00FF94)](https://github.com/algojogacor)
-
-</div>
-
----
-
-<details>
-<summary>⚙️ <strong>Setup: Snake Animation GitHub Actions</strong></summary>
-
-Buat file `.github/workflows/snake.yml` di repo profile kamu (`algojogacor/algojogacor`):
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
