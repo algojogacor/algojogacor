@@ -1,8 +1,8 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=venom&height=280&color=0D1117&text=Arya%20Rizky&fontSize=72&fontColor=00FF94&fontAlignY=42&desc=Mahasiswa%20%26%20Freelance%20Full-Stack%20Developer%20%7C%20AI%20Builder&descSize=17&descColor=00FF94&descAlignY=62&animation=fadeIn)](https://github.com/algojogacor)
+[![header](https://capsule-render.vercel.app/api?type=venom&height=280&color=0D1117&text=Arya%20Rizky&fontSize=72&fontColor=00FF94&fontAlignY=42&desc=College%20Student%20%26%20Freelance%20Full-Stack%20Developer%20%7C%20AI%20Builder&descSize=17&descColor=00FF94&descAlignY=62&animation=fadeIn)](https://github.com/algojogacor)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00FF94&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=120&lines=%24+whoami+%E2%86%92+self-taught+dev%2C+SMA+%E2%86%92+FH+Unair;%24+stack+%E2%86%92+Python+%7C+TypeScript+%7C+Next.js+%7C+Flutter;%24+building+%E2%86%92+JalaAgent+Framework+%2B+Freelance+Projects;%24+specialty+%E2%86%92+AI+systems%2C+bots%2C+full-stack+apps;%24+status+%E2%86%92+open+to+freelance+%26+internship)](https://github.com/algojogacor)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00FF94&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=120&lines=%24+whoami+%E2%86%92+self-taught+dev%2C+high+school+%E2%86%92+law+school;%24+stack+%E2%86%92+Python+%7C+TypeScript+%7C+Next.js+%7C+Flutter;%24+building+%E2%86%92+JalaAgent+Framework+%2B+Freelance+Projects;%24+specialty+%E2%86%92+AI+systems%2C+bots%2C+full-stack+apps;%24+status+%E2%86%92+open+to+freelance+%26+internship)](https://github.com/algojogacor)
 
 </div>
 
@@ -10,8 +10,8 @@
 
 <div align="center">
 
-![S1 FH](https://img.shields.io/badge/S1-Fakultas%20Hukum-00FF94?style=flat-square&labelColor=0D1117)
-![Universitas Airlangga](https://img.shields.io/badge/Univ-Universitas%20Airlangga-00FF94?style=flat-square&labelColor=0D1117)
+![Degree](https://img.shields.io/badge/LL.B-Faculty%20of%20Law-00FF94?style=flat-square&labelColor=0D1117)
+![University](https://img.shields.io/badge/Univ-Airlangga%20University-00FF94?style=flat-square&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D-Surabaya%2C%20Indonesia-00FF94?style=flat-square&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00FF94?style=flat-square&labelColor=0D1117)
 
@@ -39,13 +39,13 @@
 
 ## `$ cat about.txt`
 
-Self-taught full-stack developer yang mulai membangun sistem AI, bot, dan aplikasi production-ready sejak SMA — sekarang melanjutkan studi S1 Hukum di Universitas Airlangga sambil tetap aktif freelance. Spesialis di interseksi antara AI automation, WhatsApp/Telegram bots, dan monorepo web ecosystem.
+Self-taught full-stack developer building AI systems, bots, and production-ready applications since high school — currently pursuing a law degree at Airlangga University while staying active as a freelancer. Specializing in the intersection of AI automation, WhatsApp/Telegram bots, and monorepo web ecosystems.
 
 ```bash
 $ arya --info
 
-  ROLE        : Mahasiswa S1 & Freelance Full-Stack Developer
-  EXPERIENCE  : ~0.5 tahun professional development
+  ROLE        : College Student & Freelance Full-Stack Developer
+  EXPERIENCE  : ~0.5 years professional development
   DOMAIN      : AI Systems · Bot Development · Full-Stack Web · Mobile
   STACK       : Next.js · Python · TypeScript · Flutter · aiogram · Baileys
   OPEN_TO     : Freelance · Internship · Part-time SWE · Open Source Collab
@@ -82,7 +82,7 @@ $ arya --info
 
 <div align="center">
 
-![Self-Taught](https://img.shields.io/badge/Self--Taught%20Dev-Since%20SMA-00FF94?style=flat-square&labelColor=0D1117)
+![Self-Taught](https://img.shields.io/badge/Self--Taught%20Developer-Since%20High%20School-00FF94?style=flat-square&labelColor=0D1117)
 ![AI Systems](https://img.shields.io/badge/AI%20Systems-Builder-00FF94?style=flat-square&labelColor=0D1117)
 ![Bot Architecture](https://img.shields.io/badge/Bot%20Architecture-Telegram%20%26%20WhatsApp-00FF94?style=flat-square&labelColor=0D1117)
 ![Full-Stack](https://img.shields.io/badge/Full--Stack%20Web-Production%20Ready-00FF94?style=flat-square&labelColor=0D1117)
@@ -116,7 +116,7 @@ $ arya --info
 | Key | Detail |
 |-----|--------|
 | **Stack** | Next.js · TypeScript · Turborepo · Turso/libSQL |
-| **Scale** | 6 aplikasi dalam satu monorepo: JalaHub, JalaForum, JalaFact, JalaAI, JalaEdu, JalaJO |
+| **Scale** | 6 apps in a single monorepo: JalaHub, JalaForum, JalaFact, JalaAI, JalaEdu, JalaJO |
 | **Architecture** | Shared codebase · unified auth · unified deployment pipeline |
 | **Role** | Sole developer — architecture, design, implementation |
 | **Status** | Active Development |
@@ -133,8 +133,8 @@ $ arya --info
 | Key | Detail |
 |-----|--------|
 | **Stack** | Node.js · Baileys · Turso · Koyeb |
-| **Scale** | Self-hosted WhatsApp bot, deployed production di Koyeb |
-| **Features** | Buat stiker dari teks, gambar, dan video — fully automated |
+| **Scale** | Self-hosted WhatsApp bot, deployed in production on Koyeb |
+| **Features** | Create stickers from text, images, and video — fully automated |
 | **Role** | Sole developer |
 
 [![View Repo](https://img.shields.io/badge/GitHub-algojogacor%2FStickerinAja-00FF94?style=flat-square&logo=github&logoColor=00FF94&labelColor=0D1117)](https://github.com/algojogacor/StickerinAja)
@@ -149,8 +149,8 @@ $ arya --info
 | Key | Detail |
 |-----|--------|
 | **Stack** | Flutter · Drift ORM · Turso · Health Connect API |
-| **Scale** | Mobile app terintegrasi langsung dengan Xiaomi Smart Band 9 Active |
-| **Features** | Dashboard kesehatan personal dengan sinkronisasi wearable real-time |
+| **Scale** | Mobile app integrated directly with Xiaomi Smart Band 9 Active |
+| **Features** | Personal health dashboard with real-time wearable sync |
 | **Privacy** | Local-first, user-owned database |
 | **Role** | Sole developer |
 
@@ -168,10 +168,10 @@ Author : Arya Rizky Ardhi Pratama
 Role   : Technical Operations Assistant
 Org    : PPOB Wonoboyo
 
-  • Setup, konfigurasi, dan troubleshooting sistem PPOB end-to-end
-  • Melatih operator baru agar paham operasional sistem secara menyeluruh
-  • Backup operasional saat staff utama berhalangan hadir
-  • Menjaga ketersediaan sistem selama jam operasional
+  • Set up, configured, and troubleshot PPOB systems end-to-end
+  • Trained new operators on system operations
+  • Served as backup operations during staff absences
+  • Maintained system availability during operating hours
 
   tags: [operations] [fintech] [technical-support] [reliability]
 ```
@@ -196,10 +196,10 @@ Org    : PPOB Wonoboyo
 
 <div align="center">
 
-![S1](https://img.shields.io/badge/S1-Fakultas%20Hukum%20Unair%20(2026–kini)-00FF94?style=for-the-badge&labelColor=0D1117)
-![SMA](https://img.shields.io/badge/SMA-SMAN%2016%20Sby%20IPA%20(2023–2026)-00FF94?style=for-the-badge&labelColor=0D1117)
-![SMP](https://img.shields.io/badge/SMP-SMP%20Muhammadiyah%205%20(2020–2023)-00FF94?style=for-the-badge&labelColor=0D1117)
-![SD](https://img.shields.io/badge/SD-SDI%20Darut%20Taqwa%20(2017–2020)-00FF94?style=for-the-badge&labelColor=0D1117)
+![S1](https://img.shields.io/badge/LL.B-Faculty%20of%20Law%20Unair%20(2026–present)-00FF94?style=for-the-badge&labelColor=0D1117)
+![SMA](https://img.shields.io/badge/HS-SMAN%2016%20Surabaya%20Science%20(2023–2026)-00FF94?style=for-the-badge&labelColor=0D1117)
+![SMP](https://img.shields.io/badge/Junior%20High-SMP%20Muhammadiyah%205%20Surabaya%20(2020–2023)-00FF94?style=for-the-badge&labelColor=0D1117)
+![SD](https://img.shields.io/badge/Elementary-SDI%20Darut%20Taqwa%20(2017–2020)-00FF94?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -251,13 +251,13 @@ current_focus:
     - "Freelance full-stack projects (web & bot)"
 
   learning:
-    - "Hukum & pengantar kuliah S1 FH Unair 2026"
+    - "Law studies & first year at Airlangga University"
     - "Open source agent frameworks & LLM orchestration"
 
   exploring:
     - "AI systems architecture"
     - "Edge deployment strategies (Cloudflare, Koyeb)"
-    - "Monorepo patterns dengan Turborepo"
+    - "Monorepo patterns with Turborepo"
 
   open_to:
     - "Freelance projects (web, bot, AI automation)"
